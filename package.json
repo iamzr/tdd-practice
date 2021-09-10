@@ -1,0 +1,19 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamzr/tdd-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamzr/tdd-practice/issues"
+  },
+  "homepage": "https://github.com/iamzr/tdd-practice#readme"
+}
